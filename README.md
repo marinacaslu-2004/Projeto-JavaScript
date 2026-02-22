@@ -71,21 +71,19 @@ npx tailwindcss -i ./styles/style.css -o ./styles/output.css --minify
 - O projeto é um protótipo front-end estático; não há backend ou persistência além do tempo de sessão.
 - As imagens e preços no catálogo são exemplos e podem ser substituídos em `assets/` e no HTML.
 
-## Como contribuir
+## Contribuições
 
-1. Faça um fork/clone do repositório.
-2. Abra uma branch para sua feature/bugfix.
-3. Faça commits pequenos e claros.
-4. Envie um pull request descrevendo as alterações.
+Este repositório NÃO está aceitando contribuições externas no momento. Pull requests, forks ou submissions não serão revisados.
+
+Se você precisa colaborar ou tem uma sugestão importante, entre em contato diretamente com a proprietária do projeto através do perfil do GitHub.
 
 ## Licença
 
-O `package.json` indica `ISC`. Ajuste conforme necessário.
+Este projeto está licenciado sob a licença ISC. Veja o arquivo `LICENSE` na raiz do repositório para os termos completos.
 
----
+Direitos e propósito:
 
-Se quiser, eu posso:
+- Copyright (c) 2026 Marina Lucas.
+- O propósito deste projeto é exclusivamente didático/educacional — serve como exemplo e exercício de frontend.
+- A licença ISC permite uso, cópia, modificação e distribuição desde que o aviso de copyright e a permissão sejam mantidos. Apesar disso, este repositório NÃO aceita contribuições externas (veja `CONTRIBUTING.md`).
 
-- adaptar o README com instruções de deploy específicas,
-- adicionar exemplos de commits ou template de PR,
-- ou commitar o README para o repositório. Informe o que prefere.
